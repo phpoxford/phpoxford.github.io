@@ -1,1 +1,1 @@
-Website for [PHPOxford](http://phpoxford.uk)
+Website for [PHPOxford](https://www.meetup.com/PHP-Oxford/)
